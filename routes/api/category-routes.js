@@ -33,8 +33,9 @@ router.get('/:id', (req, res) => {
     attributes: ['id', 'category_name'],
     include: [
       // Attributes for Product
-      {model: Product,
-      attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
+      {
+        model: Product,
+        attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
       }
     ]
   })
@@ -56,7 +57,7 @@ router.post('/', (req, res) => {
   Category.create({
     category_name: req.body.categoory_name
   })
-    .then(dbCategoryData +. res.json(dbCategoryData))
+    .then(dbCategoryData => res.json(dbCategoryData))
     .catch(err => {
       console.log(err);
       res.status(500).json(err);
