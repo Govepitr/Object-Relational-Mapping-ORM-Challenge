@@ -18,7 +18,7 @@ Product.init(
     },
     //define the product_name column
     product_name: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
       allowNull: false
     },
     // define the price column
