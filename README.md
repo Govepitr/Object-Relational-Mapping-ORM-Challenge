@@ -22,28 +22,33 @@
   ❓ A working Express.js API configured to use Sequelize to interact with a MySQL database built for the back end.
 
   ### Links showing the functionality:
-  > - [:movie_camera: Click here for an external link!]()
-  > - [:movie_camera: Click here for an external link!]()
-  > - [:movie_camera: Click here for an external link!]()
-  > - [:movie_camera: Click here for an external link!]()
+  > - [:movie_camera: Click here for the GET all functions!](https://drive.google.com/file/d/1gDy-jd9RzHIPfX5lI95e4X1rszRJ_5js/view)
+  > - [:movie_camera: Click here for the POST, PUT, and DELETE of a Category!](https://drive.google.com/file/d/1WzN1meE8q48NvZviGoIbZbZkS6omuvu2/view)
+  > - [:movie_camera: Click here for the POST, PUT, and DELETE of a Tag!](https://drive.google.com/file/d/1YIRQsxS3NMuOGCnKpMCtNuYDvUhbHYks/view)
+  > - [:movie_camera: Click here for the POST, PUT, and DELETE of a Product!](https://drive.google.com/file/d/1sV1Hskohdr042YkY8Ye8ZvOftIlcueHu/view)
+  > - [:movie_camera: Click here for a 'What If?' scenario, stick around for the end 'credits'!](https://drive.google.com/file/d/1OE8ntSq-rVFgbUhDzU8VItWbhw4aE-PR/view)
 
 
 
   :loop: Here's a GIF showing the app's GET all functions:
 
-  ![demo]()
+  ![demo](./src/getall.gif)
   
   :loop: Here's another GIF showing the app's POST, PUT, and DELETE functions for a Category:
 
-  ![demo]()
+  ![demo](./src/deleteone.gif)
+
+  :loop: Here's one more GIF showing the app's POST, PUT, and DELETE functions for a Tag:
+
+  ![demo](./src/tagtime.gif)
 
   :loop: Here's one more GIF showing the app's POST, PUT, and DELETE functions for a Product:
 
-  ![demo]()
+  ![demo](./src/ProDuck.gif)
 
-  :mage: Here's a GIF showing a little bit of code magic/fun ^_^:
+  :desktop_computer: Here's a GIF showing a little bit of code magic/fun ^_^:
 
-  ![demo]()
+  ![demo](./src/magical.gif)
 
 
 
