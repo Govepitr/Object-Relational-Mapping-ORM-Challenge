@@ -41,7 +41,7 @@
 
   ![demo]()
 
-  :loop: Here's a GIF showing a little bit of code fun ^_^:
+  :mage: Here's a GIF showing a little bit of code magic/fun ^_^:
 
   ![demo]()
 
@@ -69,7 +69,7 @@
 
   <br /> `npm install dotenv` <br />
   
-  **How to set up the Database:**
+  **:mage: How to set up the Database:**
   <br />
   Starts up the mysql command lines and I've provided you a username to utilize:
   <br />
