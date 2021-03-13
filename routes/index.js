@@ -4,7 +4,7 @@ const apiRoutes = require('./api');
 router.use('/api', apiRoutes);
 
 router.use((req, res) => {
-  res.send("<h1>You took a wrong turn because this is the wrong route!</h1>")
+  res.send("<img src='https://media.giphy.com/media/3ohzdQ1IynzclJldUQ/source.gif'>")
 });
 
 module.exports = router;
